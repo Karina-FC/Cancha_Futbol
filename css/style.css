@@ -1,0 +1,65 @@
+.green{
+	width: 700px;
+	height: 390px;
+	background: #8DB17E;
+	position: relative;
+}
+
+.line{
+	width: 650px;
+	height: 340px;
+	border: 3px solid white; /*borde color blanco*/
+	position: absolute; /*depende de las relativas*/
+	top: 20px;
+	bottom: 103px:;
+	left: 25px;
+}
+
+.arco1{
+	width: 65px;
+	height: 115px;
+	border: 3px solid white; /*borde color blanco*/
+	position:absolute; /*depende de las relativas*/
+	top: 130px;
+	left: 25px;
+}
+
+.arco2{
+	width: 65px;
+	height: 115px;
+	border: 3px solid white; /*borde color blanco*/
+	position:absolute; /*depende de las relativas*/
+	top: 135px;
+	right: 19px;
+}
+
+.circulo{
+	position: absolute;
+	width: 115px;
+    height: 115px;
+    top: 135px;
+	right: 295px;
+    border-radius:50%;
+    border: solid 3px white;
+    overflow:hidden;
+}  
+
+.ball1{
+	top: 133px;
+	left: 75px;
+	position: absolute;
+}
+
+.ball2{
+	top: 68px;
+	left: 345px;
+	position: absolute;
+}
+
+.ball3{
+	top: 215px;
+	right: 98px;
+	position: absolute;
+}
+
+     
